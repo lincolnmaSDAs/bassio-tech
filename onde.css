@@ -1,0 +1,27 @@
+
+body  {
+    background-image: url(nissan-skyline-gt-r-r34-by-visualdon-4k-60fps-v0-Y7SggpsckvWTz1AS0sOXA9U0E2VeUSp8amkqdUlU2_c.webp);
+    background-repeat: no-repeat no-repeat;
+    background-attachment: fixed
+}
+  
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+  h3{
+    color: rgb(255, 255, 255)
+
+  }
+
+   p{
+    size: 20px;
+    color: rgb(255, 255, 255);
+   }
+  
+.bigger {
+    color: white;
+    font-size: 20px;
+    text-align:center
+  }
