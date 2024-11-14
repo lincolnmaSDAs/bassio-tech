@@ -1,0 +1,30 @@
+container{
+  text-align: center;
+}
+body  {
+    background-image: url(4k-black-car-in-darkness-d3bv6yjm1nr0frgn.jpg);
+    background-repeat: no-repeat no-repeat;
+    background-attachment: fixed
+}
+  
+h1{
+    color: rgb(255, 255, 255);
+    font-family: initial;
+}
+  h3{
+    color: rgb(255, 255, 255)
+  }   
+
+   p{
+    size: 4px;
+    color: rgb(255, 255, 255);
+   }
+  
+.bigger {
+    font-size: 18px;
+    color: white;
+ text-align: center
+  
+  
+  
+  }

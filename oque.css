@@ -1,0 +1,27 @@
+
+body  {
+    background-image: url(Bugatti_Tourbillon_04c_monocoque_d.jpg);
+    background-repeat: no-repeat no-repeat;
+    background-attachment: fixed
+}
+  
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+  h3{
+    color: rgb(255, 255, 255)
+
+  }
+
+   p{
+    size: 20px;
+    color: rgb(255, 255, 255);
+   }
+  
+.bigger {
+    color: white;
+    font-size: 20px;
+    text-align:center
+  }
